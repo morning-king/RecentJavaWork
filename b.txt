@@ -3,3 +3,7 @@ this is b
 08:30 @local
 8：27 @remote
 oooo
+<<<<<<< HEAD
+=======
+commit @b.txt branch-test-1
+>>>>>>> branch-test-1
