@@ -8,6 +8,7 @@ change 2
 change 3
 change local
 change @ remote
+<<<<<<< HEAD
 haha @10/23/10 from local
 haha @10/23/11 from local
 hahh @10/23/13 from local
@@ -16,3 +17,5 @@ hahh @10/23/18 from local
 commit for bugfix
 commit for bugfix2
 hahh @10/23/20 from local
+哈哈哈
+远程哈哈哈
